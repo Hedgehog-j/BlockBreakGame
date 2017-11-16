@@ -1,0 +1,25 @@
+#gameArea{
+	width:500px;
+	height:400px;
+	margin:0 auto;
+}
+#game{
+	width:400px;
+	height:400px;
+	float:left;
+	border:1px solid black;
+}
+#gradeBoard{
+	margin-left:400px;
+	width:100px;
+	height:400px;
+	line-height:100px;
+}
+#gradeBoard p{
+	text-align:center;
+	font-size:10px;
+}
+#grade{
+	font-size:50px;
+}
+
